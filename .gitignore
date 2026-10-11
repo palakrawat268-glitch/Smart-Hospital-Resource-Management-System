@@ -1,0 +1,36 @@
+# Local instance database
+instance/*.db
+instance/
+
+# Legacy files
+legacy_movie_booking/
+
+# Binaries & Executables
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
